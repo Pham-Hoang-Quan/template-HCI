@@ -836,7 +836,7 @@ textarea.input {
     margin: 30px 0px;
     background-color: #E4E7ED;
     /* background-image: url('../img/hotdeal.png'); */
-    background-image: url('../img/drill\ Technology.png');
+    background-image: url('../img/drillTechnology.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -854,7 +854,7 @@ textarea.input {
     display: inline-block;
     width: 100px;
     height: 100px;
-    background: #D10024e6;
+    background: #d1002300;
     text-align: center;
     border-radius: 50%;
     margin: 0px 5px;
@@ -871,7 +871,7 @@ textarea.input {
 }
 
 .hot-deal .hot-deal-countdown>li>div h3 {
-    color: #FFF;
+    color: rgba(255, 255, 255, 0);
     margin-bottom: 0px;
 }
 
@@ -879,7 +879,7 @@ textarea.input {
     display: block;
     font-size: 10px;
     text-transform: uppercase;
-    color: #FFF;
+    color: rgba(255, 255, 255, 0);
 }
 
 .hot-deal p {
