@@ -1409,6 +1409,10 @@ textarea.input {
 
 .store-pagination {
     float: right;
+    display: flex;
+    justify-content: flex-end;
+    
+    
 }
 
 .store-pagination li {
@@ -1421,6 +1425,7 @@ textarea.input {
     border: 1px solid #E4E7ED;
     -webkit-transition: 0.2s all;
     transition: 0.2s all;
+    /* justify-content: flex-end; */
 }
 
 .store-pagination li+li {
